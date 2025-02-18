@@ -1,0 +1,8 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\bin\Debug\ELOIZA.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\bin\Debug\ELOIZA.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\bin\Debug\ELOIZA.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\obj\Debug\ELOIZA.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\obj\Debug\ELOIZA.MainForm.resources
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\obj\Debug\ELOIZA.csproj.GenerateResource.Cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\obj\Debug\ELOIZA.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ELOIZA\ELOIZA\obj\Debug\ELOIZA.pdb
